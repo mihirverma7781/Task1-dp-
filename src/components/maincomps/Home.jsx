@@ -18,7 +18,7 @@ const Home = () => {
               </a>
             </li>
             <li className="home-li">
-              <a className="home-link home-btn" href="#about" id="explore-btn">
+              <a className="home-link home-btn" href="#more" id="explore-btn">
                 EXPLORE MORE
               </a>
             </li>

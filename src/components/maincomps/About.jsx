@@ -22,7 +22,7 @@ const About = () => {
           applications & websites.
         </p>
       </div>
-      <a href="#">DOWNLOAD MY CV</a>
+      <a href="https://drive.google.com/file/d/1vU_K9pcPqL-0YZCJZ5x1iusvheSKGywE/view?usp=sharing" download>DOWNLOAD MY CV</a>
       </div>
     </div>
   );

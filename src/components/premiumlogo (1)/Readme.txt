@@ -3,9 +3,9 @@ https://onlinelogomaker.com
 
 Fonts used in this project:
 
-https://assets.onlinelogomaker.com/fonts/Arial.ttf
-https://assets.onlinelogomaker.com/fonts/Arial.ttf
-https://assets.onlinelogomaker.com/fonts/Arial.ttf
+https://assets.onlinelogomaker.com/fonts/Zwodrei-Bold.ttf
+https://assets.onlinelogomaker.com/fonts/Zwodrei-Bold.ttf
+https://assets.onlinelogomaker.com/fonts/Zwodrei-Bold.ttf
 
 
 Instructions to install fonts on windows: 

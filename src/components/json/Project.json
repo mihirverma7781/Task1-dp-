@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "title":"EReader",
+        "git":"https://github.com/mihirverma7781/Finalproject",
+        "deploy":"https://mihirverma7781.github.io/Finalproject/",
+        "description":"A Project on E-Commerce Digital Book React App ",
+        "image": "https://i.ibb.co/7yhjK4G/ereader.png"
+        
+    },
+
+    {
+        "id":2,
+        "title":"BREAKING BAD",
+        "git":"https://github.com/mihirverma7781/BreakingSplash",
+        "deploy":"https://mihirverma-breakingbad.netlify.app",
+        "description":"A Breaking Bad Cast React App",
+        "image":"https://i.ibb.co/8rPBMYQ/breakingbad.png"
+        
+    },
+
+    {
+        "id":3,
+        "title":"IMAGE SPLASH",
+        "git":"sdhttps://github.com/mihirverma7781/ImageSplashdfaf",
+        "deploy":"http://mihirverma.imagesplash.com",
+        "description":"An UnSplash API React App",
+        "image":"https://i.ibb.co/4MV4pfb/imagesplash.png"
+
+        
+    },
+
+    {
+        "id":4,
+        "title":"GATSBY APP",
+        "git":"https://github.com/mihirverma7781/Gatsby-Portfolio",
+        "deploy":"https://mihir-verma.netlify.app",
+        "description":"A Porfolio Project Using Gatsby Framework",
+        "image":"https://i.ibb.co/JqxgJWj/gatsby.png"
+
+        
+    },
+
+    {
+        "id":5,
+        "title":"CURRENCY ",
+        "git":"https://github.com/mihirverma7781/CurrencyConverter",
+        "deploy":"https://vigorous-snyder-59fab7.netlify.app",
+        "description":"A Currency Converter App Using React Js",
+        "image":"https://i.ibb.co/crWkMWz/currency.png"
+
+        
+    },
+
+    {
+        "id":6,
+        "title":"WEATHER APP",
+        "git":"https://github.com/mihirverma7781/Weatherapp",
+        "deploy":"https://mihirverma7781.github.io/Weatherapp/",
+        "description":"A Simple Weather App Using React Js",
+        "image":"https://i.ibb.co/rkwM09y/weather.png"
+
+        
+    }
+
+
+
+]
