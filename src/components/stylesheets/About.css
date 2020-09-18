@@ -217,6 +217,23 @@
         align-items: center !important;
         justify-content: center !important;
     }
+    .parallyx-info {width: 320px;}
+
+
+
+  .react-parallax {
+    /* margin-top: 8em; */
+    height: 107vh;
+}
+
+.parallyx-info {
+    margin-top: 2em;
+}
+.about-header h1 {
+    background-color: rgba(255,255,255,0.5) ;
+    margin-top: 0.9em;
+    padding:0.2em 0;
+}
   }
   @media only screen and (max-width: 280px){
     .left-lower {

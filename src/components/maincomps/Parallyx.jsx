@@ -47,8 +47,8 @@ const Parallyx = () => {
       </div>
       Developed unique user experiences that drove interaction, using Javascript.
 Designed and developed views/templates on top of HTMS ,CSS. Created and implemented a custom CSS flex system, with CSS media queries for mobile responsiveness.
-Tested front-end code in multiple browsers to ensure cross-browser compatability. Participated in projects in all stages of the product life cycle.
-Created and maintained the front-end standards document and oversaw production of Javascript, HTML, and CSS. Developed fully functional responsive prototypes based on Business Requirements using HTML/HTML5, CSS3, JavaScript and React-Js.
+Tested front-end code in multiple browsers to ensure cross-browser compatability. 
+Created front-end standards document and oversaw production of Javascript, HTML, and CSS. Developed fully functional responsive prototypes based on Business Requirements using HTML/HTML5, CSS3, JavaScript and React-Js.
         </div>
       </div>
     </Parallax>
