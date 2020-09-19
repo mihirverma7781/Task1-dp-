@@ -1,7 +1,7 @@
 import React from 'react'
 import '../stylesheets/Navbar.css'
-import logo from '../premiumlogo (1)/onlinelogomaker-091720-2259-8525.png'
-import { Navbar,Nav,Link,NavDropdown } from 'react-bootstrap';
+// import logo from '../premiumlogo (1)/onlinelogomaker-091720-2259-8525.png'
+import { Navbar,Nav } from 'react-bootstrap';
 const NavbarComp=()=> {
     return (
         <>
